@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/halaibrahem_" target="blank"><img src="https://img.shields.io/twitter/follow/halaibrahem_?logo=twitter&style=for-the-badge" alt="halaibrahem_" /></a> </p>
 
+- 📫 How to reach me **halaibrahim867@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/halaibrahem_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="halaibrahem_" height="30" width="40" /></a>
@@ -19,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halaibarahim867&show_icons=true&locale=en&layout=compact" alt="halaibarahim867" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halaibarahim867&show_icons=true&locale=en" alt="halaibarahim867" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halaibarahim867&" alt="halaibarahim867" /></p>
