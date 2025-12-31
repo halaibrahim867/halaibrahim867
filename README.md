@@ -49,9 +49,6 @@ Backend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/halaibrahim867">
-  <img src="https://github-readme-stats.vercel.app/api?username=halaibrahim867&show_icons=true&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true" />
-</a>
 
 <a href="https://github.com/halaibrahim867">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=halaibrahim867&stroke=0891b2&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" />
